@@ -11,7 +11,7 @@ I'm a Software Engineer, and Frontend Developer currently building projects and 
 - 🌱 I’m currently learning JavaScript, Reactjs and Vue.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You cancontact me by emailing yinkajunn@gmail.com.
+- 📫 You can contact me by emailing yinkajunn@gmail.com.
 
 ---
 

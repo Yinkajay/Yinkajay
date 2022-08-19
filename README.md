@@ -15,3 +15,6 @@ I'm a Software Engineer, and Frontend Developer currently building projects and 
 
 ---
 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yinkajay&show_icons=true&include_all_commits=true&hide_border=true" alt="Yinka's Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yinkajay&langs_count=8&layout=compact&hide_border=true" alt="Yinka's Stats" /> |
+
